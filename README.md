@@ -1,6 +1,6 @@
-# 🍽️ Online Food Ordering System – Food Plaza
+#  Online Food Ordering System – Food Plaza
 
-### 📄 Screenshots
+### Screenshots
 Screenshots demonstrating the working of the system are included in the uploaded project report.
 
 ---
