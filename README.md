@@ -66,7 +66,15 @@ These tables help organize data and enable smooth interaction between the fronte
 - Online food ordering platforms for restaurants  
 - Efficient inventory and order management for admins  
 - Customer-friendly systems for fast and accurate food delivery  
-- Basis for future enhancements like online payments and mobile-friendly design  
+- Basis for future enhancements like online payments and mobile-friendly design
+
+
+## Problems Faced
+- Ensuring real-time updates for orders with multiple concurrent users was challenging  
+- Managing database consistency during simultaneous orders  
+- Implementing secure user authentication  
+- Handling out-of-stock items and order modifications  
+- Maintaining smooth UI experience across different devices  
 
 
 ## Conclusion
